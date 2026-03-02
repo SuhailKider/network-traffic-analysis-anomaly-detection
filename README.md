@@ -88,7 +88,7 @@ This project helped strengthen practical knowledge in:
 
 1. Clone the repository
 
-git clone https://github.com/Electro-Hacker/network-traffic-analysis-anomaly-detection
+git clone (https://github.com/SuhailKider/network-traffic-analysis-anomaly-detection)
 
 2. Navigate to the project folder
 
