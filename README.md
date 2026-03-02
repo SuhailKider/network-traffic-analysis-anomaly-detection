@@ -102,8 +102,6 @@ python network_anomaly_detection_live.py
 
 The anomaly detection script analyzes captured network traffic and flags suspicious patterns.
 
----
-
 Example output generated during analysis:
 
 [ANOMALY] Size=139 | Proto=6 | SrcPort=443 | DstPort=62246 | IAT=0.107
